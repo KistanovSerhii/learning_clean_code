@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_clean_code1/config.dart';
-import 'package:flutter_clean_code1/presentation/Home.dart';
+import 'package:flutter_clean_code1/presentation/home.dart';
 
 class Application extends StatelessWidget {
   @override
