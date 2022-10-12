@@ -18,3 +18,6 @@
     
     dart sdk и flutter sdk - скачал с https://dart.dev/get-dart
     android sdk - установил android studio
+
+# ВАЖНО:
+    Откройте проект повторно после указания sdk, переменные среды и т.д.
